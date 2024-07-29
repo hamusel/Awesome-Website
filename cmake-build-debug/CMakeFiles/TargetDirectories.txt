@@ -1,0 +1,3 @@
+C:/Users/hamux/Desktop/proiecte c++/cmake-build-debug/CMakeFiles/proiecte_c__.dir
+C:/Users/hamux/Desktop/proiecte c++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hamux/Desktop/proiecte c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
